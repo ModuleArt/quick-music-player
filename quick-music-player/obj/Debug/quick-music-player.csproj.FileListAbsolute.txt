@@ -1,0 +1,11 @@
+D:\Projects\DotNet\quick-music-player\quick-music-player\obj\Debug\quick-music-player.csprojAssemblyReference.cache
+D:\Projects\DotNet\quick-music-player\quick-music-player\obj\Debug\quick_music_player.Properties.Resources.resources
+D:\Projects\DotNet\quick-music-player\quick-music-player\obj\Debug\quick-music-player.csproj.GenerateResource.cache
+D:\Projects\DotNet\quick-music-player\quick-music-player\bin\Debug\Quick Music Player.exe.config
+D:\Projects\DotNet\quick-music-player\quick-music-player\bin\Debug\Quick Music Player.exe
+D:\Projects\DotNet\quick-music-player\quick-music-player\bin\Debug\Quick Music Player.pdb
+D:\Projects\DotNet\quick-music-player\quick-music-player\obj\Debug\quick_music_player.MainForm.resources
+D:\Projects\DotNet\quick-music-player\quick-music-player\obj\Debug\Quick Music Player.exe
+D:\Projects\DotNet\quick-music-player\quick-music-player\obj\Debug\Quick Music Player.pdb
+D:\Projects\DotNet\quick-music-player\quick-music-player\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects\DotNet\quick-music-player\quick-music-player\obj\Debug\quick-music-player.csproj.CopyComplete
