@@ -7,5 +7,17 @@ D:\Projects\DotNet\quick-music-player\quick-music-player\bin\Debug\Quick Music P
 D:\Projects\DotNet\quick-music-player\quick-music-player\obj\Debug\quick_music_player.MainForm.resources
 D:\Projects\DotNet\quick-music-player\quick-music-player\obj\Debug\Quick Music Player.exe
 D:\Projects\DotNet\quick-music-player\quick-music-player\obj\Debug\Quick Music Player.pdb
-D:\Projects\DotNet\quick-music-player\quick-music-player\bin\Debug\AxInterop.WMPLib.dll
 D:\Projects\DotNet\quick-music-player\quick-music-player\obj\Debug\quick-music-player.csproj.CopyComplete
+D:\Projects\DotNet\quick-music-player\quick-music-player\bin\Debug\NAudio.dll
+D:\Projects\DotNet\quick-music-player\quick-music-player\bin\Debug\NAudio.xml
+D:\Projects\DotNet\quick-music-player\quick-music-player\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Projects\DotNet\quick-music-player\quick-music-player\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Projects\DotNet\quick-music-player\quick-music-player\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Projects\DotNet\quick-music-player\quick-music-player\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\Projects\DotNet\quick-music-player\quick-music-player\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Projects\DotNet\quick-music-player\quick-music-player\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Projects\DotNet\quick-music-player\quick-music-player\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Projects\DotNet\quick-music-player\quick-music-player\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+D:\Projects\DotNet\quick-music-player\quick-music-player\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\Projects\DotNet\quick-music-player\quick-music-player\obj\Debug\quick_music_player.AboutForm.resources
+D:\Projects\DotNet\quick-music-player\quick-music-player\bin\Debug\Octokit.dll

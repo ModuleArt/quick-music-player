@@ -34,5 +34,17 @@ namespace quick_music_player.Properties {
                 this["Volume"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool LoopSong {
+            get {
+                return ((bool)(this["LoopSong"]));
+            }
+            set {
+                this["LoopSong"] = value;
+            }
+        }
     }
 }

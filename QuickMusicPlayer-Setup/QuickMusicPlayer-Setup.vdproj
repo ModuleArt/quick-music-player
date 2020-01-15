@@ -21,50 +21,98 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_65D7E71A41DD0371CA5E40D01624B2D3"
+        "OwnerKey" = "8:_521CB1082094474EB5676492627181D0"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_65D7E71A41DD0371CA5E40D01624B2D3"
+        "OwnerKey" = "8:_D7E3693C31AECA6CAE5A8CF2F299117A"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_7C8F3EBEC7FC59A28186A1C1C1C47A33"
         "OwnerKey" = "8:_521CB1082094474EB5676492627181D0"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_A0F9B11A1474F3D9B7A2B1F98BE53B4D"
-        "OwnerKey" = "8:_B8E104C3E28E0F9E0DBEB2443A2F0AC6"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_B846680A02EB733C4BD4BE35F72582A8"
-        "OwnerKey" = "8:_A0F9B11A1474F3D9B7A2B1F98BE53B4D"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_B8E104C3E28E0F9E0DBEB2443A2F0AC6"
+        "MsmKey" = "8:_92C1D04E99E2AB03DF16BEF7BC4B1828"
         "OwnerKey" = "8:_521CB1082094474EB5676492627181D0"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_AE969C84772341AA966D410A44F1EDE0"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B4850DB8F7E860494691822C7957B2F3"
+        "OwnerKey" = "8:_521CB1082094474EB5676492627181D0"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B4850DB8F7E860494691822C7957B2F3"
+        "OwnerKey" = "8:_D7E3693C31AECA6CAE5A8CF2F299117A"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B4850DB8F7E860494691822C7957B2F3"
+        "OwnerKey" = "8:_65D7E71A41DD0371CA5E40D01624B2D3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C64B9B04AB644C36B6E88C9A69DCDF4C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D7E3693C31AECA6CAE5A8CF2F299117A"
+        "OwnerKey" = "8:_521CB1082094474EB5676492627181D0"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_521CB1082094474EB5676492627181D0"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_92C1D04E99E2AB03DF16BEF7BC4B1828"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_D7E3693C31AECA6CAE5A8CF2F299117A"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_65D7E71A41DD0371CA5E40D01624B2D3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_B4850DB8F7E860494691822C7957B2F3"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_7C8F3EBEC7FC59A28186A1C1C1C47A33"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_521CB1082094474EB5676492627181D0"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_B8E104C3E28E0F9E0DBEB2443A2F0AC6"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_A0F9B11A1474F3D9B7A2B1F98BE53B4D"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -85,6 +133,22 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.6.1"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.6.1 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.6.1"
+                    }
+                }
+            }
         }
         "Release"
         {
@@ -101,6 +165,22 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.6.1"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.6.1 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.6.1"
+                    }
+                }
+            }
         }
     }
     "Deployable"
@@ -130,6 +210,37 @@
         }
         "File"
         {
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_65D7E71A41DD0371CA5E40D01624B2D3"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Microsoft.WindowsAPICodePack.Shell, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_65D7E71A41DD0371CA5E40D01624B2D3"
+                    {
+                    "Name" = "8:Microsoft.WindowsAPICodePack.Shell.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Microsoft.WindowsAPICodePack.Shell.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_60E388D020A0489D84ED57EC6A3AD632"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_7C8F3EBEC7FC59A28186A1C1C1C47A33"
             {
             "AssemblyRegister" = "3:1"
@@ -161,20 +272,20 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A0F9B11A1474F3D9B7A2B1F98BE53B4D"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_92C1D04E99E2AB03DF16BEF7BC4B1828"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Interop.WMPLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:NAudio, Version=1.9.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_A0F9B11A1474F3D9B7A2B1F98BE53B4D"
+                    "_92C1D04E99E2AB03DF16BEF7BC4B1828"
                     {
-                    "Name" = "8:Interop.WMPLib.DLL"
+                    "Name" = "8:NAudio.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:Interop.WMPLib.DLL"
+            "SourcePath" = "8:NAudio.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_60E388D020A0489D84ED57EC6A3AD632"
@@ -192,10 +303,41 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B846680A02EB733C4BD4BE35F72582A8"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_AE969C84772341AA966D410A44F1EDE0"
             {
-            "SourcePath" = "8:wmp.dll"
-            "TargetName" = "8:wmp.dll"
+            "SourcePath" = "8:..\\quick-music-player\\resources\\quick-music-player.VisualElementsManifest.xml"
+            "TargetName" = "8:quick-music-player.VisualElementsManifest.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_60E388D020A0489D84ED57EC6A3AD632"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_B4850DB8F7E860494691822C7957B2F3"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Microsoft.WindowsAPICodePack, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_B4850DB8F7E860494691822C7957B2F3"
+                    {
+                    "Name" = "8:Microsoft.WindowsAPICodePack.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Microsoft.WindowsAPICodePack.dll"
+            "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_60E388D020A0489D84ED57EC6A3AD632"
             "Condition" = "8:"
@@ -212,20 +354,40 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_B8E104C3E28E0F9E0DBEB2443A2F0AC6"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C64B9B04AB644C36B6E88C9A69DCDF4C"
+            {
+            "SourcePath" = "8:..\\quick-music-player\\resources\\imgs\\music.ico"
+            "TargetName" = "8:music.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_60E388D020A0489D84ED57EC6A3AD632"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D7E3693C31AECA6CAE5A8CF2F299117A"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:AxInterop.WMPLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:Microsoft.WindowsAPICodePack.ShellExtensions, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_B8E104C3E28E0F9E0DBEB2443A2F0AC6"
+                    "_D7E3693C31AECA6CAE5A8CF2F299117A"
                     {
-                    "Name" = "8:AxInterop.WMPLib.dll"
+                    "Name" = "8:Microsoft.WindowsAPICodePack.ShellExtensions.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:AxInterop.WMPLib.dll"
+            "SourcePath" = "8:Microsoft.WindowsAPICodePack.ShellExtensions.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_60E388D020A0489D84ED57EC6A3AD632"
@@ -298,26 +460,26 @@
         "Product"
         {
         "Name" = "8:Microsoft Visual Studio"
-        "ProductName" = "8:QuickMusicPlayer-Setup"
-        "ProductCode" = "8:{A1B6A17F-00AE-4FD7-93F3-B2B3419094AE}"
-        "PackageCode" = "8:{35CB61E0-52F9-4763-B68D-33F1678DA33F}"
+        "ProductName" = "8:Quick Music Player"
+        "ProductCode" = "8:{C4707A9A-79F2-4136-B586-ED35D2A8F9E3}"
+        "PackageCode" = "8:{5B19899D-6F6A-4922-B5CE-8413C3A02725}"
         "UpgradeCode" = "8:{5D8FA13D-3DDE-4D56-A4C1-BB46DE75C600}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:1.0.0"
+        "ProductVersion" = "8:1.1.0"
         "Manufacturer" = "8:Module Art"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
-        "Title" = "8:QuickMusicPlayer-Setup"
+        "Title" = "8:Quick Music Player"
         "Subject" = "8:"
         "ARPCONTACT" = "8:Module Art"
         "Keywords" = "8:"
-        "ARPCOMMENTS" = "8:"
+        "ARPCOMMENTS" = "8:Lightweight desktop audio player for Windows"
         "ARPURLINFOABOUT" = "8:https://moduleart.github.io"
-        "ARPPRODUCTICON" = "8:"
+        "ARPPRODUCTICON" = "8:_C64B9B04AB644C36B6E88C9A69DCDF4C"
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
@@ -552,8 +714,8 @@
                             "Type" = "3:3"
                             "ContextData" = "8:"
                             "Attributes" = "3:0"
-                            "Setting" = "3:1"
-                            "Value" = "8:#1202"
+                            "Setting" = "3:2"
+                            "Value" = "8:Copyright © 2019 ModuleArt"
                             "DefaultValue" = "8:#1202"
                             "UsePlugInResources" = "11:TRUE"
                             }
@@ -709,8 +871,8 @@
                             "Type" = "3:3"
                             "ContextData" = "8:"
                             "Attributes" = "3:0"
-                            "Setting" = "3:1"
-                            "Value" = "8:#1202"
+                            "Setting" = "3:2"
+                            "Value" = "8:Copyright © 2019 ModuleArt"
                             "DefaultValue" = "8:#1202"
                             "UsePlugInResources" = "11:TRUE"
                             }
@@ -849,7 +1011,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_521CB1082094474EB5676492627181D0"
             {
-            "SourcePath" = "8:"
+            "SourcePath" = "8:..\\quick-music-player\\obj\\Debug\\Quick Music Player.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_60E388D020A0489D84ED57EC6A3AD632"

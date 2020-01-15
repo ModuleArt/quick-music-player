@@ -1,0 +1,21 @@
+﻿using System.Windows.Forms;
+
+namespace quick_music_player
+{
+	public class CustomTrackBar : TrackBar
+	{
+		public CustomTrackBar() {  }
+
+		private const int WM_SETFOCUS = 0x0007;
+
+		protected override void WndProc(ref Message m)
+		{
+			if (m.Msg == WM_SETFOCUS)
+			{
+				return;
+			}
+
+			base.WndProc(ref m);
+		}
+	}
+}
